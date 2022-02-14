@@ -1,0 +1,64 @@
+﻿<Window x:Class="Ejercicio_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_3"
+        mc:Ignorable="d"
+        Title="Registro mascota y dueno" Height="600" Width="450">
+    <Grid>
+    <StackPanel Orientation="Vertical" Margin="10" HorizontalAlignment="Left">
+            <Label Content="Datos Dueño:"/>
+
+            <Label Content="Nombre:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="NombreDTextBox" Width="100"  />
+                </StackPanel>
+
+            <Label Content="Telefono:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="TelefonoTextBox" Width="100" />
+                </StackPanel>
+
+                <Label Content="Direccion:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="DireccionTextBox" Width="100" />
+                </StackPanel>
+
+                <Label Content="Datos Mascota:"/>
+
+                 <Label Content="Nombre:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="NombreMascotaTextBox" Width="100" />
+                </StackPanel>
+
+                <Label Content="Edad:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="EdadTextBox" Width="100" />
+                </StackPanel>
+
+                <Label Content="Vacunas Recibidas:"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="VacunasTextBox" Width="100" />
+                </StackPanel>
+
+                 <StackPanel 
+                        Margin="0,16,0,0"                      
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" >
+                
+                <Button Content="👁" Click="VerButton_Click"/>
+                <Button Content="✔ Guardar" Click="GuardarButton_Click" />
+
+            </StackPanel>
+             <ListBox x:Name="Listar" Height="300" Width="400" FontSize="14"></ListBox>
+        </StackPanel>
+
+    </Grid>
+</Window>

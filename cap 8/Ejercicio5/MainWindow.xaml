@@ -1,0 +1,30 @@
+﻿<Window x:Class="Ejercicio5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+         <Grid>
+        <StackPanel Orientation="Vertical" Margin="10"> 
+            <Label Content="Cadena 1:" Width="200" FontSize="16"/>
+            <StackPanel>
+            <TextBox x:Name="Cadena1txt"  Width="200" FontSize="16"/>
+            </StackPanel>
+
+            <Label Content="Cadena 2:" Width="200" FontSize="16"/>
+            <StackPanel>
+            <TextBox x:Name="Cadena2txt"  Width="200" FontSize="16"/>
+            </StackPanel>
+
+            <StackPanel                      
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" >
+                <Button Content="Ordenar" FontSize="16" Click="OrdenarButton_Click"/>
+            </StackPanel>
+            <ListBox x:Name="Resultado" Height="200" Width="200"></ListBox>
+        </StackPanel>
+    </Grid>
+    
+</Window>

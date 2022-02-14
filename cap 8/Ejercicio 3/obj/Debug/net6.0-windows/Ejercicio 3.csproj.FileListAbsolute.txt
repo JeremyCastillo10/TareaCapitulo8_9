@@ -1,0 +1,21 @@
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3_MarkupCompile.cache
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\Ejercicio 3.exe
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\Ejercicio 3.deps.json
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\Ejercicio 3.runtimeconfig.json
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\Ejercicio 3.dll
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\ref\Ejercicio 3.dll
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\bin\Debug\net6.0-windows\Ejercicio 3.pdb
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3_MarkupCompile.lref
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.g.resources
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.dll
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\ref\Ejercicio 3.dll
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.pdb
+C:\Users\Jeremy\Desktop\cap 8\Ejercicio 3\obj\Debug\net6.0-windows\Ejercicio 3.genruntimeconfig.cache
